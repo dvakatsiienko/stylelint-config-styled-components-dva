@@ -1,0 +1,16 @@
+{
+    "name": "stylelint-config-styled-components-dva",
+    "version": "0.0.1",
+    "repository": "git@github.com:dvakatsiienko/stylelint-config-dva.git",
+    "author": "Dima Vakatsiienko <imagnum.satellite@gmail.com>",
+    "license": "MIT",
+    "main": ".stylelint.json",
+    "keywords": [
+        "stylelint",
+        "stylelint-config",
+        "stylelint-config-styled-components-dva"
+    ],
+    "peerDependencies": {
+        "stylelint": "13.12.0"
+    }
+}
