@@ -17,7 +17,7 @@ Also, the config is dependent on the [stylelint-processor-styled-components](htt
 
 > All the required dependencies are included in the installation script below.
 
-### Usage
+### Install
 
 Install all the required packages using the following script:
 
