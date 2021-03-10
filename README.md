@@ -32,3 +32,13 @@ yarn add -D stylelint stylelint-config-styled-components-dva stylelint-processor
 ```sh
 npm install -D stylelint stylelint-config-styled-components-dva stylelint-processor-styled-components stylelint-config-standard stylelint-config-recess-order stylelint-order stylelint-selector-no-empty stylelint-declaration-block-no-ignored-properties stylelint-use-nesting
 ```
+
+### Usage
+
+Add the following to your `stylelint.config.js`:
+
+```js
+module.exports = {
+    extends: ['stylelint-config-styled-components-dva']
+};
+```
